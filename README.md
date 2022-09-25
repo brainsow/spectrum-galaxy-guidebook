@@ -1,2 +1,2 @@
-# spectrum-galaxy-guidebook
-A patchouli guidebook for in-game use
+# spectrum-galaxy-library
+A collection of patchouli books for in-game use
